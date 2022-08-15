@@ -10,6 +10,7 @@ rpcport=${RPC_PORT}
 port=${PORT}
 listen=1
 daemon=1
+proxy=127.0.0.1:9050
 debug={$DEBUG}
 prune={$PRUNE}
 usehd={$USE_HD}
