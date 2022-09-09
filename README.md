@@ -1,6 +1,8 @@
-# Bitcoin for Docker
+# Bitcoin-core docker image
 
-A customizable Docker container for Bitcoin + Tor
+Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoin is carried out collectively by the network. Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part. Through many of its unique properties, Bitcoin allows exciting uses that could not be covered by any previous payment system.
+
+This Docker image provides bitcoin, bitcoin-cli and bitcoin-tx applications which can be used to run and interact with a bitcoin server.
 
 ## Quick Start
 
